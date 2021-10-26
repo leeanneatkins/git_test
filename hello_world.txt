@@ -1,0 +1,3 @@
+Adding some text
+To test and learn how
+To use git
